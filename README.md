@@ -10,3 +10,4 @@ Some description
 - item 4
 - item 5
 - item 6
+- feature 1
