@@ -11,6 +11,7 @@ Some description
 - item 5
 - item 6
 - feature 1 (fixed)
+- feature 2 (some descrition)
 
 ## Installation
 
