@@ -13,6 +13,7 @@ Some description
 - feature 1 (fixed)
 - feature 2 (some descrition)
 - feature 3
+- feature 4
 
 ## Installation
 
